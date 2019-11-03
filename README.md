@@ -1,2 +1,2 @@
-# world_happiness_2017
-World Happiness
+# World Happiness 2017
+The World Happiness Report is an annual report which utilizes data from Gallup's World Poll and ranks all countries based on a happiness score. Additionally, the report considers 6 factors which have been most closely linked to happiness and allocates a score for each factor which signifies the strength of the factor. The goal of my project is to analyze the data within the 2017 report, and to merge the World Happiness dataset with a UN Dataset od additional data to better understand the happines scores.
